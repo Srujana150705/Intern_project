@@ -1,1 +1,1 @@
-# Intern_project
+# Smart Crop planner and MarketPlace Assistant
